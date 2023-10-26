@@ -21,7 +21,7 @@ To use the API endpoint, make a GET request to `/api/repositories`.
 
 ### Example Request
 GET api/repositories?per_page=10&sinceDate=2023-01-01&language=PHP
-`Here we can control search anf filetration from query parameters`
+`Here we can control search anf filteration from query parameters`
 
 
 ### Example Response

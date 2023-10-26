@@ -4,8 +4,8 @@ This Laravel service provides an API endpoint to retrieve a list of the most pop
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/repositories.git`
-2. Navigate to the project directory: `cd repositories`
+1. Clone the repository: `git clone https://github.com/MahmoudBelalNasr/Assignment.git`
+2. Navigate to the project directory: `cd Assignment`
 3. Install dependencies: `composer install`
 4. Configure your database settings in the `.env` file.
 
